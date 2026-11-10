@@ -1,7 +1,5 @@
 ## Actualización de sesión: sección Restaurante
 
-Pegar al final del `README.md` (sección de historial de cambios) y guardar `docs/API.md` como `docs/API.md` en el repositorio.
-
 ### Qué cambió
 
 - Vista de categoría rediseñada: encabezado con icono y subtítulo, botón "Nueva propuesta" con contador, "Mis votos", búsqueda, filtro "Mostrar", lista paginada (6 por página) modal de nueva propuesta y hoja lateral de detalles (pestañas Información y Comentarios, voto fijo al pie, botón de enlace). En celular la hoja sube desde abajo.
